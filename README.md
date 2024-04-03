@@ -26,3 +26,9 @@ Prototipo de la función:
 ```C
 int ft_printf(char const *s, ...);
 ```
+### - Para ver mi progresion en el common core 42 ↙️
+
+[AQUÍ](https://github.com/Tobiianselmo)
+
+### - Mi perfil en la intranet de 42 ↙️
+[AQUÍ](https://profile.intra.42.fr/users/tanselmo)
