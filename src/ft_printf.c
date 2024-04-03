@@ -59,12 +59,3 @@ int	ft_printf(char const *input, ...)
 	va_end(element);
 	return (size);
 }
-
-/*  int	main()
-{
-	char *str;
-
-	str = "hola";
-	printf("%zd\n", write(1,"hola\n",5));
-	ft_printf("%s", str);
-}  */
